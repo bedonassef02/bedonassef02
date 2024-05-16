@@ -1,47 +1,62 @@
-# Hi there, I'm Bedo! 👋
+### 💫 Hi There, I'm Bedo! 👋!
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bedonassef02&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedonassef02&layout=compact"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+I'm a Software Engineer specializing in Back-End development, and I'm currently a Computer Science student. My passion lies in Node.js and Nest.js development, and I'm always eager to learn new things!
 
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=red&center=true&vCenter=true&width=700&height=100&lines=Back-End+Software+Engineer;Passionate+about+Node+js+and+Nest+js+Development;Always+Learning+New+Things" 
+alt="Typing SVG" /> </a>
+</p>
 
-# 📚 Frameworks and Libraries
+### 🌐 Contact Me
+<p align="center">
+&emsp;
+<a href="mailto:bedonassef71@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+&emsp;
+<a href="https://www.linkedin.com/in/bedonassef02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&emsp;
+<a href="https://www.facebook.com/bedonassef02/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+&emsp;
+<a href="https://www.instagram.com/bedonassef02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+&emsp;
+<a href="https://twitter.com/bedonassef02"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
 
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/-laravel-%23C21325?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+## 💻 Languages and Tools
 
-<br/><br/>
+<p align="center">
+    	<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cpp,scala,nodejs,express,nestjs,laravel,flask,mongo,mysql,postgres,redis,tensorflow,docker,aws,jest,prisma,kafka,rabbitmq,graphql&perline=8" />
+</p>
 
-<br/>
+## 🛠️ Software Tools
+ 
+<p align="center"> 
+	<img src="https://skillicons.dev/icons?i=git,vscode,webstorm,pycharm,postman,kali,photoshop&perline=8" />
+</p>
 
-# 📋 Programming Languages
+## 📈 GitHub Stats
 
-<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bedonassef02&theme=dark" alt="streak"/> <br>
+	<a href="https://github.com/AshrafAlagmawy">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bedonassef02&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bedonassef02&theme=react&layout=compact"/>
+</a> 
+</p>
 
-<br/>
-<br/>
-<br/>
+<div align="center"> 
+  ### Small Steps Everyday Lead To Big Goals 🤸‍♂️
+  
+ [1.00] <sup>365</sup> = 1.00
+                          
+ [1.01] <sup>365</sup> = 37.7
+</div>
 
-# 💾 Databases and ORM
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+## 📊 Activity
+
+![Bedo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bedonassef02&custom_title=Bedo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
