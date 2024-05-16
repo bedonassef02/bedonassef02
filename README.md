@@ -38,7 +38,7 @@ alt="Typing SVG" /> </a>
 
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bedonassef02&theme=dark" alt="streak"/> <br>
-	<a href="https://github.com/AshrafAlagmawy">
+	<a href="https://github.com/bedonassef02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bedonassef02&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bedonassef02&theme=react&layout=compact"/>
 </a> 
