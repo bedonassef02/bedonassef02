@@ -19,7 +19,7 @@ alt="Typing SVG" /> </a>
 &emsp;
 <a href="https://www.instagram.com/bedonassef02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 &emsp;
-<a href="https://x.com/bedonassef02"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://x.com/bedonassef02"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
 &emsp;
 <br>
 <a href="#"><img src="https://img.shields.io/badge/bedonassef02-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
