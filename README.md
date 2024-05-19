@@ -22,11 +22,11 @@ alt="Typing SVG" /> </a>
 <a href="https://x.com/bedonassef02"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
 &emsp;
 <br>
-<a href="#"><img src="https://img.shields.io/badge/bedonassef02-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="#-contact-me"><img src="https://img.shields.io/badge/bedonassef02-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
 &emsp;
-<a href="#"><img src="https://img.shields.io/badge/bedonassef02-5865F2?style=flat&logo=discord&logoColor=white" alt="Discrod"/></a>
+<a href="#-contact-me"><img src="https://img.shields.io/badge/bedonassef02-5865F2?style=flat&logo=discord&logoColor=white" alt="Discrod"/></a>
 &emsp;
-<a href="#"><img src="https://img.shields.io/badge/bedonassef02-FFFC00?style=flat&logo=snapchat&logoColor=black" alt="Snapchat"/></a>
+<a href="#-contact-me"><img src="https://img.shields.io/badge/bedonassef02-FFFC00?style=flat&logo=snapchat&logoColor=black" alt="Snapchat"/></a>
 </p>
 
 ## 💻 Languages and Tools
@@ -52,7 +52,7 @@ alt="Typing SVG" /> </a>
 </p>
 
 <div align="center"> 
-  ### Small Steps Everyday Lead To Big Goals 🤸‍♂️
+  Small Steps Everyday Lead To Big Goals 🤸‍♂️
   
  [1.00] <sup>365</sup> = 1.00
                           
