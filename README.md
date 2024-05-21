@@ -26,7 +26,7 @@ alt="Typing SVG" /> </a>
 &emsp;
 <a href="https://discord.com/users/595159371839832084"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discrod"/></a>
 &emsp;
-<a href="https://snapchat.com/add/bedonassef02"><img src="https://img.shields.io/badge/Snapchat.com-FFFC00?style=flat&logo=snapchat&logoColor=black" alt="Snapchat"/></a>
+<a href="https://snapchat.com/add/bedonassef02"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black" alt="Snapchat"/></a>
 </p>
 
 ## 💻 Languages and Tools
