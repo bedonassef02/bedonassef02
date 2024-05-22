@@ -51,14 +51,6 @@ alt="Typing SVG" /> </a>
 </a> 
 </p>
 
-<div align="center"> 
-  Small Steps Everyday Lead To Big Goals 🤸‍♂️
-  
- [1.00] <sup>365</sup> = 1.00
-                          
- [1.01] <sup>365</sup> = 37.7
-</div>
-
 ## 📊 Activity
 
 ![Bedo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bedonassef02&custom_title=Bedo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
@@ -66,4 +58,7 @@ alt="Typing SVG" /> </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align="center">
+<br>
+<img width="200px" align="center" src="https://komarev.com/ghpvc/?username=bedonassef02&style=flat&color=blueviolet">
+</p>
