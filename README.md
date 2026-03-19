@@ -2,13 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Back--End%20Engineer-2979FF?style=for-the-badge&logo=gearset&logoColor=white" alt="Back-End Engineer">
-  <img src="https://img.shields.io/badge/1%2B%20Years%20Experience-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="1+ Years Experience">
+  <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="2+ Years Experience">
   <img src="https://img.shields.io/badge/Computer%20Science%20Graduate-FF6D00?style=for-the-badge&logo=googlescholar&logoColor=white" alt="CS Graduate">
 </p>
 
 ## ✨ About Me
 
-I specialize in creating **scalable, high-performance back-end systems** and APIs. With **1+ years of professional experience** and a foundation in **Computer Science**, I focus on building resilient services in the JavaScript and PHP ecosystems.
+I specialize in creating **scalable, high-performance back-end systems** and APIs. With **2+ years of professional experience** and a foundation in **Computer Science**, I focus on building resilient services in the JavaScript and PHP ecosystems.
 
 * **Node.js & NestJS:** My go-to stack for microservices and real-time applications.
 * **PHP & Laravel:** Experienced in robust, feature-rich web application development.
@@ -49,13 +49,23 @@ I specialize in creating **scalable, high-performance back-end systems** and API
     <img src="https://custom-icon-badges.demolab.com/badge/Messaging-000000?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka/RabbitMQ">
 </p>
 
+### 🤖 AI Ecosystem & Integrations
+
+<p align="center">
+    <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+    <img src="https://custom-icon-badges.demolab.com/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
+    <img src="https://custom-icon-badges.demolab.com/badge/Twilio%20(Voice/SMS)-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+    <img src="https://custom-icon-badges.demolab.com/badge/ElevenLabs%20(Voice)-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+</p>
+
 ### 🔧 Testing & Development Tools
 
 <p align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Git%20&%20GitHub-181717?style=flat-square&logo=git&logoColor=white" alt="Git/GitHub">
     <img src="https://custom-icon-badges.demolab.com/badge/Jest%20(Testing)-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
     <img src="https://custom-icon-badges.demolab.com/badge/Prisma%20(ORM)-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-    <img src="https://custom-icon-badges.demolab.com/badge/VSCode%20&%20WebStorm-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode/WebStorm">
+    <img src="https://custom-icon-badges.demolab.com/badge/Antigravity%20(AI%20IDE)-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="Antigravity">
+    <img src="https://custom-icon-badges.demolab.com/badge/Claude%20CLI-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude CLI">
     <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p>
 
