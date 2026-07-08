@@ -4,7 +4,6 @@
 
 📍 Giza, Egypt · ✈️ Available to relocate to UAE or Saudi Arabia
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdelrahmanmahmoud.com-1F3864?style=flat-square)](https://abdelrahmanmahmoud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mahmoud-youssef/)
 [![Email](https://img.shields.io/badge/Email-hello@abdelrahmanmahmoud.com-2E75B6?style=flat-square&logo=maildotru&logoColor=white)](mailto:hello@abdelrahmanmahmoud.com)
 
